@@ -1,0 +1,29 @@
+Kalpneel Technologies
+----------------------
+
+Requirement
+------------
+Create a web application
+1) Use PHP / Python
+2) Should have at least one ajax functionality
+3) Should have at least one normal post functionality
+4) Should contain a README file explaining what your application does, how to
+   install and run it. Also mention any references that you have used for
+   developing the application including referred manuals, web pages, forum etc.
+5) Upload this to github and send us the link.
+
+
+Instructions
+--------------
+This is a Subscriber website were the users can subscribe to the website.
+The user has to Enter the valid name and his valid email address so that the user can receive the newsletters and latest updates.
+
+As per the requirement this website is done with PHP And AJAX functionality.
+The subscriber form uses post method and in that it uses ajax functionality with internal CSS.
+
+
+References
+------------
+1)www.php.net
+2)www.w3schools.com/ajax/
+3)www.w3schools.com/php/
